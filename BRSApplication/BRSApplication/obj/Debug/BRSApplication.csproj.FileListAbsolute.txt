@@ -1,0 +1,809 @@
+C:\Users\Waseem Uddin Hammad\Documents\Visual Studio 2015\Projects\BRSApplication\BRSApplication\obj\Debug\BRSApplication.csprojResolveAssemblyReference.cache
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\Downloads\BRSApplication\BRSApplication\bin\ApplicationInsights.config
+D:\Downloads\BRSApplication\BRSApplication\bin\BRSApplication.dll.config
+D:\Downloads\BRSApplication\BRSApplication\bin\BRSApplication.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\BRSApplication.pdb
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\csc.exe
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\csc.exe.config
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\csc.rsp
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\csi.exe
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\csi.rsp
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.AppContext.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\vbc.exe
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\vbc.exe.config
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\vbc.rsp
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\BRSApplication\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\BRSApplication\BRSApplication\bin\Antlr3.Runtime.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\EntityFramework.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\EntityFramework.SqlServer.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.Web.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Newtonsoft.Json.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Owin.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Buffers.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Memory.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Helpers.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Mvc.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Optimization.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Razor.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\WebGrease.dll
+D:\Downloads\BRSApplication\BRSApplication\bin\Antlr3.Runtime.pdb
+D:\Downloads\BRSApplication\BRSApplication\bin\EntityFramework.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\EntityFramework.SqlServer.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.Web.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\Newtonsoft.Json.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Buffers.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Memory.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Helpers.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Mvc.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Razor.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\BRSApplication\BRSApplication\bin\System.Web.Optimization.xml
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.dll
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.pdb
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+D:\Downloads\BRSApplication\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Owin.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetype.resources
+D:\Downloads\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetypes.resources
+D:\test\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+D:\test\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+D:\test\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+D:\test\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\test\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Owin.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+D:\test\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+D:\test\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+D:\test\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetype.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetypes.resources
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+D:\test\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Owin.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetype.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetypes.resources
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb
+D:\test\BRSApplication_Final\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Owin.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetype.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetypes.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValuetoBRSRequestModel.resources
+C:\Users\Waseem Uddin Hammad\Downloads\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\ApplicationInsights.config
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll.config
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\BRSApplication.pdb
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.exe.config
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csc.rsp
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csi.exe
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\csi.rsp
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.AppContext.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.exe.config
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\vbc.rsp
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Owin.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Buffers.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Memory.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\WebGrease.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Antlr3.Runtime.pdb
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\EntityFramework.SqlServer.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.Web.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\Newtonsoft.Json.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Buffers.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Memory.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Helpers.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Mvc.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Razor.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\bin\System.Web.Optimization.xml
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csprojAssemblyReference.cache
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.initial.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital2.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.Inital3.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValueTable.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.unwantedChange.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetype.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.addedDatetypes.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.Migrations.AddingValuetoBRSRequestModel.resources
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.GenerateResource.cache
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.csproj.CopyComplete
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.dll
+D:\Downloads\BRSApplication (6) (1)\BRSApplication (6)\BRSApplication (2)\BRSApplication\obj\Debug\BRSApplication.pdb

@@ -1,0 +1,471 @@
+﻿@model  BRSApplication.ViewModels.BRSRequestViewModel
+@{
+    ViewBag.Title = "BIG RED SWITCH(BRS)";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+
+@section scripts{
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jqueryval ")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var saveStatus = "@ViewBag.Message";
+            console.log(saveStatus);
+            if (saveStatus) {
+                $("#MyPopup .modal-body").html(saveStatus);
+                $("#MyPopup").modal("show");
+            }
+            history.pushState({}, "", "/");
+             $("#reset").click(function ()
+            {
+                $(this).closest('form').find("input[type=text], textarea").val("");
+             });
+
+            $("#btnRequestBRS").click(function(){
+                $("#brsRequestForm").show();
+                     $("#btnRequestBRS").hide();
+            });
+
+
+            $(".datepicker").datepicker({
+                dateFormat: "mm/dd/yy",
+                changeMonth: true,
+                changeYear: true,
+                yearRange: "2020:2035"
+            });
+            try {
+                $("input[type='text']").each(function () {
+                    $(this).attr("autocomplete", "off");
+                });
+            }
+            catch (e) { }
+            $('#ddlEnvironment').change(function () {
+
+                $.ajax({
+                    type: "post",
+                    url: "/BRSRequest/GetGeos",
+                    data: { EnvId: $('#ddlEnvironment').val() },
+                    datatype: "json",
+                    traditional: true,
+                    success: function (data) {
+
+                        $("#GeoIds").html(""); // clear before appending new list
+                        $.each(data, function (i, Geo) {
+                            $("#GeoIds").append(
+                                $('<option></option>').val(Geo.Value).html(Geo.Text));
+                        });
+                    }
+                });
+            });
+           
+            var name = "@ViewBag.UserName";
+            var role = "@ViewBag.Role";
+            var isInEdit = "@ViewBag.isInEditMode";
+
+            if (isInEdit == "true") {
+                $("#brsRequestForm").show();
+                $("#btnRequestBRS").hide();
+            } else {
+                $("#brsRequestForm").hide();
+                $("#btnRequestBRS").show();
+            }
+            
+            if (role == "Approver" || role == "SuperAdmin" ) {
+                $(".loadBRSApprovePartial").load("BRSRequest/GetBRSApproveTableValues?name=" + name+"&role="+role);
+            }
+            $(".loadBRSOWNPartial").load("BRSRequest/GetloadBRSOWNPartial?name=" + name+"&role="+role);
+            
+
+
+             $('#ddlEnvironmentFilter').change(function () {
+
+                $.ajax({
+                    type: "post",
+                    url: "/BRSRequest/GetGeos",
+                    data: { EnvId: $('#ddlEnvironmentFilter').val() },
+                    datatype: "json",
+                    success: function (data) {
+                        $("#GeoIdsForFilter").html(""); // clear before appending new list
+                        $.each(data, function (i, Geo) {
+                            $("#GeoIdsForFilter").append(
+                                $('<option></option>').val(Geo.Value).html(Geo.Text));
+                        });
+                       // $(".loadBRSPartial").load("BRSRequest/GetBRSTableValues", { envID: $('#ddlEnvironmentFilter').val() });
+
+                    }
+                });
+            });
+            $('#GeoIdsForFilter').change(function () {
+
+
+              //  $(".loadBRSPartial").load("BRSRequest/LoadBRSValues", { EnvId: $('#ddlEnvironmentFilter').val(), GeosId: $('#GeoIdsForFilter').val(), BuildID: $('#ddlBuildFilter').val() });
+
+            });
+            $('#ddlBuildFilter').change(function () {
+                $(".loadBRSPartial").load("BRSRequest/LoadBRSValues", { GeosId: $('#GeoIdsForFilter').val(),EnvId: $('#ddlEnvironmentFilter').val(),  BuildID: $('#ddlBuildFilter').val(), Name: name, Role:role });
+
+            });
+            $('#GeoIdsForFilter').val('0');
+            $('#ddlBuildNumber').change(function () {
+                if ($('#ddlBuildNumber').val() == -1) {
+                    $("#BuildNameOther").show();
+                } else {
+                    $("#BuildNameOther").hide();
+                }
+            });
+            $('#ddlSetting').change(function () {
+                if ($('#ddlSetting').val() == -1) {
+                    $("#SettingOther").show();
+                } else {
+                    $("#SettingOther").hide();
+                }
+            });
+        });
+
+        function ShowPopup(id) {
+           
+            $.ajax({
+                type: "post",
+                url: "/BRSRequest/GETBRSById",
+                data: { Id: id },
+                datatype: "json",
+                traditional: true,
+                success: function (data) {
+
+                    //$("#GeoIds").html(""); // clear before appending new list
+                    //$.each(data, function (i, Geo) {
+                    //    $("#GeoIds").append(
+                    //        $('<option></option>').val(Geo.Value).html(Geo.Text));
+                    //});
+                    let table = '<table class="table table-stripped"><tr><th>Feature Area</th><th>Feature Area</th><th>Feature Area</th></tr><tr><th>' + data.FArea + '</th><th>' + data.FName + '</th><th>' + data.Setting + '</th></tr></table>'
+                    let BrsValue = data.FArea + "/n"
+                                 + data.FName + "/n"
+                        + data.Setting + "/n"
+                        + data.Value
+                    $("#MyPopup .modal-body").html(BrsValue);
+                    //var district = "<select id='ddlDistrict' multiple='multiple'>";
+                    //district = district + '<option value="">--Select--</option>';
+                    //for (var i = 0; i < data.length; i++)
+                    //{
+                    //    district = district + '<option value=' + data[i].Value + '>' + data[i].Text + '</option>';
+                    //}
+                    //district = district + '</select>';
+                    //$('#divGeo').html(district);
+                }
+            });
+            $("#MyPopup .modal-title").html("BRS");
+            //$("#MyPopup .modal-body").html("better");
+            $("#MyPopup").modal("show");
+          
+        }
+
+        function DeleteBRSValue(id,GeoID) {
+            if (window.confirm("Do you really want to delete BRS Value?")) {
+                $(".loadBRSPartial").load("BRSRequest/Delete", { Id: id,GeoID:GeoID, EnvId: $('#ddlEnvironmentFilter').val(), GeosId: $('#GeoIdsForFilter').val(), BuildID: $('#ddlBuildFilter').val() });
+            }
+        }
+
+        //    $('#ddlDistrict').change(function () {
+        //        if ($(this).val() == "all") {
+        //            alert("Called");
+        //            $("select > option").prop("selected", true);
+        //        }
+        //    });
+        //});
+        // Enable Live Search.
+        //$('#CountryList').attr('data-live-search', true);
+
+        ////// Enable multiple select.
+        //$('#CountryList').attr('multiple', true);
+        //$('#CountryList').attr('data-selected-text-format', 'count');
+
+        //$('.selectCountry').selectpicker(
+        //    {
+        //        width: '100%',
+        //        title: '- [Choose Multiple Countries] -',
+        //        style: 'btn-warning',
+        //        size: 6,
+        //        iconBase: 'fa',
+        //        tickIcon: 'fa-check'
+        //    });
+        //$('.chosen-select').chosen();
+        $(function () {
+            //     $("#ddlEnvironment").change(function(){url.action('Environment','Save')})
+            if ($("#GeoId option").length > 1) {
+                $("#GeoId").removeAttr("disabled");
+            }
+
+            //if ($("#CityId option").length > 1) {
+            //    $("#CityId").removeAttr("disabled");
+            //}
+
+            //if ($("#CountryId").val() != "" && $("#StateId").val() != "" && $("#CityId").val() != "") {
+            //    var message = "Country: " + $("#CountryId option:selected").text();
+            //    message += "\nState: " + $("#StateId option:selected").text();
+            //    message += "\nCity: " + $("#CityId option:selected").text();
+            //    alert(message);
+            //}
+        });
+    </script>
+}
+<script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.js"></script>
+
+<style>
+    .field-validation-error {
+        color: red;
+    }
+</style>
+
+<div class="row" style="margin-top:45px">
+    <div class="col-md-12">
+        <h3>BIG RED SWITCH(BRS)</h3>
+    </div>
+    <div class="col-md-7">
+
+        <div id="MyPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">
+                        </h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+
+                    </div>
+                    <div class="modal-body">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="SuccessPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">
+                        </h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+
+                    </div>
+                    <div class="modal-body">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @using (Html.BeginForm("UpdateBRSTable", "BRSRequest"))
+        {
+            @Html.Hidden("returnUrl", this.Request.RawUrl)
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label class="col-form-label">Environment</label>
+                    @Html.DropDownListFor(m => m.EnvIdForFilter, new SelectList(Model.EnvsForFilter, "Id", "EnvironmentName"), new { @class = "form-control", id = "ddlEnvironmentFilter" })
+
+                </div>
+                <div class="col-md-4">
+                    <label class="col-form-label">Geos </label>
+                    @Html.DropDownListFor(m => m.GeoIdsForFilter, new SelectList(Model.GeosForFilter, "Id", "GeoName"), new { @class = "form-control", @multiple = "true" })
+                    @Html.ValidationMessageFor(m => m.GeoIdsForFilter)
+
+
+
+                </div>
+                <div class="col-md-4">
+                    <label class="col-form-label">Build No </label>
+                    @Html.DropDownListFor(m => m.BuildIdsForFilter, new SelectList(Model.Builds, "Id", "BuildNumber"), "Please Select a Build Number", new { @class = "form-control", id = "ddlBuildFilter" })
+                    @Html.ValidationMessageFor(m => m.BuildIdsForFilter)
+
+                </div>
+
+
+            </div>
+        }
+        <br />
+
+        <div class="loadBRSPartial">
+
+        </div>
+
+        <button class="btn btn-primary" id="btnRequestBRS">New BRS Request</button>
+        <div id="brsRequestForm" style="display:none">
+
+            @using (Html.BeginForm("Submit", "BRSRequest", FormMethod.Post))
+            {
+                @*@Html.ValidationSummary()*@
+
+                @Html.HiddenFor(model => model.BRSRequestEditId)
+                <div class="form-group">
+                    <label class="col-form-label">Environment </label>
+                    @Html.DropDownListFor(m => m.EnvId, new SelectList(Model.Environments, "Id", "EnvironmentName"), "Please select an environment", new { @class = "form-control", id = "ddlEnvironment" })
+                    @Html.ValidationMessageFor(m => m.EnvId)
+                </div>
+
+                <div class="form-group">
+                    <label class="col-form-label">Geos </label>
+                    @Html.DropDownListFor(m => m.GeoIds, new SelectList(Model.GeosForProds, "Id", "GeoName"), "Please select a Geo(S)", new { @class = "form-control", @multiple = "true" })
+                    @Html.ValidationMessageFor(m => m.GeoIds)
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label">Slot Name </label>
+                    @Html.DropDownListFor(m => m.SlotId, new SelectList(Model.Slots, "Id", "Slot"), "Select A Slot", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.SlotId)
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label">Build Number </label>
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            @Html.DropDownListFor(m => m.BuildId, new SelectList(Model.Builds, "Id", "BuildNumber"), "Select A Build", new { @class = "form-control", @id = "ddlBuildNumber" })
+
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBoxFor(m => m.BuildName, new { @class = "form-control", @id = "BuildNameOther", style = "display:none" })
+                        </div>
+
+                    </div>
+                    @*@Html.ValidationMessageFor(m => m.SlotId)*@
+
+
+                </div>
+                @*, onchange = "this.form.submit();"*@
+                <div class="form-group">
+                    <label class="col-form-label">Expiry</label>
+                    @Html.TextBoxFor(m => m.ExpiryDateValue, new { id = "DateId", @class = "form-control datepicker" })
+                    @*@Html.TextBoxFor(m => m.ExpiryDateValue, new { @class = "form-control"})**@
+                </div>
+
+                <div class="form-group">
+                    <label class="col-form-label-sm">Comment</label>
+                    @Html.TextAreaFor(m => m.Comments, new { @class = "form-control" })
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-body">
+ 
+                <h4>BRS Details</h4>
+                <div class="form-group">
+                    <label class="col-form-label">Feature Area </label>
+                    @Html.DropDownListFor(m => m.FeatureAreaId, new SelectList(Model.FeatureAreas, "Id", "FeatureArea"), "Please select", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.FeatureAreaId)
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label">Feature Name </label>
+                    @Html.DropDownListFor(m => m.FeatureNameId, new SelectList(Model.FeatureNames, "Id", "FeatureName"), "Please select", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.FeatureNameId)
+                </div>
+                @*<div class="form-group">
+                <label class="col-form-label">Settings </label>
+                @Html.DropDownListFor(m => m.SettingId, new SelectList(Model.Settings, "Id", "Name"), "Please select a setting", new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.SettingId)
+            </div>*@
+
+                <div class="form-group">
+                    <label class="col-form-label">Setting </label>
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            @Html.DropDownListFor(m => m.SettingId, new SelectList(Model.Settings, "Id", "Name"), "Please select a setting", new { @class = "form-control", @id = "ddlSetting" })
+                            @Html.ValidationMessageFor(m => m.SettingId)
+                        </div>
+                        <div class="col-md-6">
+                            @Html.TextBoxFor(m => m.SettingId, new { @class = "form-control", @id = "SettingOther", style = "display:none" })
+                        </div>
+
+                    </div>
+                    @*@Html.ValidationMessageFor(m => m.SlotId)*@
+
+
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Value)
+                    @Html.TextAreaFor(m => m.Value, new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+                @*<div class="form-group">
+            <label class="col-form-label">Settings Value </label>
+            <div class="row">
+
+                <div class="col-md-6">
+                    @Html.DropDownListFor(m => m.Setting.Id, new SelectList(Model.Settings, "Id", "BuildNumber"), "Select A settin", new { @class = "form-control", @id = "ddlBuildNumber" })
+
+                </div>
+                <div class="col-md-6">
+                    @Html.TextBoxFor(m => m.BuildName, new { @class = "form-control", @id = "BuildNameOther", style = "display:none" })
+                </div>
+
+            </div>*@
+                @*@Html.ValidationMessageFor(m => m.SlotId)*@
+
+
+                @*</div>*@
+                @*@Html.ListBoxFor(m => m.GeoId, Model.GeosForProds)*@
+
+                @*<div class="form-group">
+                @Html.LabelFor(m => m.GeoForProd.GeoName)
+                @Html.DropDownListFor(m => m.GeoForProd.GeoName, new SelectList(Model.GeosForProds, "Id", "GeoName"), "Select A GEO", new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.GeoForProd.Id)
+            </div>*@
+
+                @*<div id="divGeo">
+
+            </div>*@
+
+
+                @*    <div class="form-group">
+                @Html.LabelFor(m => m.INIfileName.FileName)
+                @Html.TextBoxFor(m => m.INIfileName.FileName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.INIfileName.FileName)
+            </div>*@
+                @*<div class="checkbox">
+                <label>
+                    @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsLetter) Is subscribed to NewsLetter
+                </label>
+            </div>
+            @Html.HiddenFor(m => m.Customer.Id)
+            Html.AntiForgeryToken()
+              <button type="submit" class="btn btn-primary">Save</button>*@
+
+                <input type="submit" value="Submit" class="btn btn-primary" />
+                <input type="reset" value="Clear" class="btn btn-primary" id="btnClear" />
+
+                @ViewBag.Message
+            }
+        </div>
+    </div>
+    <div class="col-md-5">
+        @*<div>
+            Your BRS Requests
+        </div>*@
+        <div class="loadBRSOWNPartial">
+
+        </div>
+
+
+        <div class="loadBRSApprovePartial">
+
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace BRSApplication.Models
+{
+    public class BRSRequest
+    {
+        public int Id { get; set; }
+
+        [Stringlength(50)]
+        public string RequestedAlias { get; set; }
+        
+        public DateTime RequestedDate { get; set; }
+        
+        public int EnvironemtnId { get; set; }
+        
+        public int GeoId { get; set; }
+        
+        public int SlotId { get; set; }
+        
+        public int BuildId { get; set; }
+        
+        public int ExpiryDate { get; set; }
+        
+        [Stringlength(200)]
+        public int Comments { get; set; }
+        
+        public int FeatureAreaId { get; set; }
+        
+        public int FeatureNameId { get; set; }
+        
+        public int SettingId { get; set; }
+        
+        [StringLength(50)]
+        public int ApproverAlias { get; set; }
+        
+        public int ApproveDate { get; set; }
+    
+    }
+}

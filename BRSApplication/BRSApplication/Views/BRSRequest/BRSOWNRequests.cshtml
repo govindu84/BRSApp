@@ -1,0 +1,52 @@
+﻿@model  IEnumerable<BRSApplication.Models.BRSRequest>
+<div id="BRSDataTableOWNGrid" style="height: 215px;" class="ag-theme-balham"></div>
+<script>
+        var BRSDataTableOWNGrid = [];
+     @if (Model != null)
+    {
+        //Assign Partnumber grid by buyer id
+        foreach (var item in Model)
+        {
+            @:BRSDataTableOWNGrid.push({ RequestedAlias: "@item.RequestedAlias", ExpiryDate: "@item.ExpiryDate",Id:"@item.Id" });
+        }
+    }
+    var BRSDataTableOWNColumnDefs = [
+
+
+                                { headerName: "Requestor", field: "RequestedAlias", width: 150 },
+        {
+            headerName: "BRS", field: "Id", width: 130, cellRenderer: function (params) {
+                                         
+                                        return '<button type="button" id="details"  value='+params.value+' onclick="ShowPopup('+params.value+')" style="background: none; border: none;color: blue;">View</button>'
+                                            } },
+                                { headerName: "Expiry Date", field: "ExpiryDate", width: 210 },
+                                { headerName: "Status", field: "RequestedAlias", width: 120 },
+        {
+            headerName: "Edit", field: "Id", width: 240, cellRenderer: function (params) {
+                var iddd = params.value;
+                return '<a href=/BRSRequest/Edit?id=' + params.value + ' style="color: blue;">Edit </a>' + " | " +
+                 '<button type="button" id="Delete" value=' + params.value + ' onclick="DeleteBRSValue(' + params.value + ');"  style="background: none; border: none;color: blue;">Delete</button>'
+
+                                    //return '<button type="button" id="Edit" value=' + params.value + ' class="btn btn-link"  onclick="location.href=>Edit</button>'+ "|"+
+                                           // '<button type="button" id="Delete" value=' + params.value + ' onclick="DeleteBRSValue(' + params.value + ');" class="btn btn-link">Delete</button>'
+                                }
+            }];
+
+    var GridOptionsBRSDataOwnTable = {
+        columnDefs: BRSDataTableOWNColumnDefs,//definition of the column for the grid
+        pagination: true,//pagination control at bottom of grid
+        paginationPageSize: 20,
+        rowData: BRSDataTableOWNGrid,//where the data is coming from, this represents data returned from the stored procedure
+        rowSelection: 'multiple',
+        enableSorting: true,//sort in grid
+        enableFilter: true
+        };
+
+
+       $(document).ready(function () {
+             var agARgridOWN = document.querySelector('#BRSDataTableOWNGrid');
+             new agGrid.Grid(agARgridOWN, GridOptionsBRSDataOwnTable);
+
+            GridOptionsBRSDataOwnTable.api.sizeColumnsToFit();
+           });
+</script>

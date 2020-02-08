@@ -1,0 +1,106 @@
+﻿@model IEnumerable<BRSApplication.Models.BRSRequest>
+
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>View</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RequestedAlias)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RequestedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EnvironmentId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GeosId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SlotId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BuildId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpiryDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comments)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FeatureAreaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FeatureNameId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SettingId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApproverAlias)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApproveDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RequestedAlias)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RequestedDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnvironmentId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GeosId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SlotId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BuildId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExpiryDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comments)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FeatureAreaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FeatureNameId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SettingId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApproverAlias)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApproveDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
